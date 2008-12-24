@@ -1,0 +1,7 @@
+MbtermDb
+========
+
+This is an utility database of mobile phone's specification in Japan.
+Using this database, you can get the mobile phone's spec (such as browser-version, browser-width, browser-height, display-size, etc.) from your rails application easily.
+
+For more detail information, see: http://tmty.jp/trac/wiki/%E6%A9%9F%E7%A8%AE%E6%83%85%E5%A0%B1DB (sorry, Japanese only)
